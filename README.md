@@ -30,7 +30,7 @@
 برای شروع با این پروژه، مخزن را کلون کرده و وابستگی‌ها را نصب کنید:
 
 ```bash
-git clone <(https://github.com/sama-khodadady/Sama-Khodadady-Weblog.git)>
+git clone https://github.com/sama-khodadady/Sama-Khodadady-Weblog.git
 cd weblog
 npm install
 ```
