@@ -15,10 +15,10 @@ const theme = createTheme({
 
 theme.typography.h5 = {
   [theme.breakpoints.up("xs")]: {
-    fontSize: ".8rem",
+    fontSize: "1rem",
   },
   [theme.breakpoints.up("sm")]: {
-    fontSize: "1.1rem",
+    fontSize: "1.2rem",
   },
   [theme.breakpoints.up("md")]: {
     fontSize: "1.5rem",
@@ -39,7 +39,7 @@ theme.typography.h4 = {
 
 theme.typography.h6 = {
   [theme.breakpoints.up("xs")]: {
-    fontSize: ".8rem",
+    fontSize: ".9rem",
   },
   [theme.breakpoints.up("sm")]: {
     fontSize: "1rem",
